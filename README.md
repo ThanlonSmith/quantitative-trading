@@ -1,4 +1,4 @@
-# quantitative-analysis[Python机器学习与量化交易总结]
+# quantitative-trading[Python机器学习与量化交易总结]
 #### 1. 量化交易简介
 ##### 1.1 量化交易的历史
 ##### 1.2 什么是量化交易
